@@ -1,0 +1,8 @@
+﻿  gradientMatch.cpp
+d:\lib\linemod\mipp\mipp_impl_sse.hxx(1827): warning C4309: “参数”: 截断常量值
+d:\lib\linemod\mipp\mipp_impl_sse.hxx(1832): warning C4309: “参数”: 截断常量值
+d:\vscode\vc\include\utility(200): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  d:\lib\linemod\gradientmatch.cpp(52): note: 参见对正在编译的函数 模板 实例化“std::pair<float,int>::pair<float,unsigned __int64,void,0>(std::pair<float,unsigned __int64> &&) noexcept”的引用
+  d:\lib\linemod\gradientmatch.cpp(52): note: 参见对正在编译的函数 模板 实例化“std::pair<float,int>::pair<float,unsigned __int64,void,0>(std::pair<float,unsigned __int64> &&) noexcept”的引用
+  linemod.vcxproj -> D:\Lib\x64\Debug\linemod.exe
+  linemod.vcxproj -> D:\Lib\x64\Debug\linemod.pdb (Full PDB)

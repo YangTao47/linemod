@@ -1,0 +1,13 @@
+﻿  line2Dup.cpp
+d:\lib\linemod\mipp\mipp_impl_SSE.hxx(1827): warning C4309: “参数”: 截断常量值
+d:\lib\linemod\mipp\mipp_impl_SSE.hxx(1832): warning C4309: “参数”: 截断常量值
+  test.cpp
+d:\lib\linemod\mipp\mipp_impl_SSE.hxx(1827): warning C4309: “参数”: 截断常量值
+d:\lib\linemod\mipp\mipp_impl_SSE.hxx(1832): warning C4309: “参数”: 截断常量值
+  正在生成代码
+  29 of 2376 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  linemod.vcxproj -> D:\Lib\x64\Release\linemod.exe
+  linemod.vcxproj -> D:\Lib\x64\Release\linemod.pdb (Full PDB)
